@@ -2,3 +2,18 @@
     background-color: #ffa7a7;
     font-family: verdana, Dejavu Sans, sans-serif;
 }
+
+#even-blue-number {
+    color:#0000ff;
+    font-size: 36px;
+} 
+
+#different-odd-number{
+    font-size: 36px;
+}
+
+#even-green-number {
+    background-color: #80ff80;
+    font-size: 24px;
+    font-weight: bold;
+}
